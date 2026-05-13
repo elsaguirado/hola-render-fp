@@ -27,12 +27,12 @@ El proyecto se divide en dos ramas principales que se corresponden con los servi
 1.  **Entorno PRE (Preproducción)**:
     * **Rama**: `pre`
     * **Propósito**: Testing y validación de cambios.
-    * **URL**: `https://tu-proyecto-pre.onrender.com`
+    * **URL**: `[https://tu-proyecto-pre.onrender.com](https://hola-render-pre-jkuu.onrender.com)`
 
 2.  **Entorno PRO (Producción)**:
     * **Rama**: `main`
     * **Propósito**: Entorno final para el usuario final.
-    * **URL**: `https://tu-proyecto.onrender.com`
+    * **URL**: `[https://tu-proyecto.onrender.com](https://hola-render-pro-k94t.onrender.com)`
 
 ## ✅ Flujo de Trabajo y Validación
 
